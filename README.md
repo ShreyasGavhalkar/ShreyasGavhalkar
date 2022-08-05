@@ -1,4 +1,4 @@
-[![Shreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyasGavhalkar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Shreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyasGavhalkar&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 -👋 Hi, I’m @ShreyasGavhalkar
